@@ -1,5 +1,9 @@
 @import url(//db.onlinewebfonts.com/c/37d5125f671cbc11d721ee9d3200d66e?family=CandiceW01);
 
+*  {
+  margin: 0px;
+  padding: 0px;
+}
 
 .background {
   height: 1080px;
@@ -38,6 +42,7 @@
 
 .text {
   padding-left: 90px;
+  padding-top: 50px;
   display: flex;
   align-items: center;
   justify-content: center;
