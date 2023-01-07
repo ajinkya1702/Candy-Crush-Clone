@@ -1,0 +1,48 @@
+@import url(//db.onlinewebfonts.com/c/37d5125f671cbc11d721ee9d3200d66e?family=CandiceW01);
+
+
+.background {
+  height: 1080px;
+  width: 192  0px;
+
+  background-image: url(images/background.jpg);
+}
+
+.app {
+  display: flex;
+  padding: 30px;
+  padding-left: 300px;
+  align-items: center;
+  justify-content: center;
+}
+
+.game {
+  height: 560px;
+  width: 560px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.game img {
+  width: 70px;
+  height: 70px;
+} 
+
+.score-board  {
+  
+  height: 200px;
+  width: 400px;
+  background-image:  url(images/scoreboardbg.png);
+
+}
+
+.text {
+  padding-left: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'CandiceW01', sans-serif;
+  color:darkgreen;
+  font-size: 2.5em;
+                                                
+}
